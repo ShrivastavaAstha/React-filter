@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-filter/static/css/main.172b9b42.css",
+    "main.js": "/React-filter/static/js/main.e01d8334.js",
+    "index.html": "/React-filter/index.html",
+    "main.172b9b42.css.map": "/React-filter/static/css/main.172b9b42.css.map",
+    "main.e01d8334.js.map": "/React-filter/static/js/main.e01d8334.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.172b9b42.css",
+    "static/js/main.e01d8334.js"
+  ]
+}
